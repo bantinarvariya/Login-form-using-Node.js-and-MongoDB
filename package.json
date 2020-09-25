@@ -1,1 +1,33 @@
 
+{
+  "name": "loginpage",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "app.js"
+  },
+  "dependencies": {
+    {
+
+
+    "express": "express"
+
+    "mongoose": "mongoose" 
+    
+
+
+    "passport": "passport"
+
+    "bodyParser": "body-parser"
+
+    "LocalStrategy": "passport-local" 
+
+    "passportLocalMongoose": "passport-local-mongoose"
+
+              
+
+    "User": "./models/user"
+
+
+  }
+}
