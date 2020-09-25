@@ -7,27 +7,27 @@
     "start": "app.js"
   },
   "dependencies": {
-    {
-
-
-    "express": "express"
-
-    "mongoose": "mongoose" 
     
 
 
-    "passport": "passport"
+    "express": "express",
 
-    "bodyParser": "body-parser"
+    "mongoose": "mongoose", 
+    
 
-    "LocalStrategy": "passport-local" 
 
-    "passportLocalMongoose": "passport-local-mongoose"
+    "passport": "passport",
+
+    "bodyParser": "body-parser",
+
+    "LocalStrategy": "passport-local",
+
+    "passportLocalMongoose": "passport-local-mongoose",
 
               
 
-    "User": "./models/user"
+ 
 
 
-  }
+  
 }
